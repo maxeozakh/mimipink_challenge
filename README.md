@@ -9,7 +9,7 @@ wanna create more and trash talking less so for 111 days i trying to spend time
     - messengers/chats/etc.
     - as less as possible, **max 1 hour per day**, except serious businisess that are not comfortable to do by calling
 - start: 30/01/22 end: 21/05/22 or if `you died` happens
-- if i fail the challenge i will raffle 111$ dollars among friends randomly 🤪
+- if i fail the challenge i will raffle 111$ among friends 🤪
 
 ## legend
  
@@ -20,6 +20,6 @@ wanna create more and trash talking less so for 111 days i trying to spend time
 
 ## stats
 
-- day 1/111
+- day 2/111
 - red cards: 0
-- streak: 0
+- streak: 1
