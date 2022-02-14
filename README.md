@@ -20,6 +20,6 @@ wanna create more and trash talking less so for 111 days i trying to spend time
 
 ## stats
 
-- day 15/111
+- day 16/111
 - red cards: 0
-- streak: 14
+- streak: 15
